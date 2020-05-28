@@ -2,26 +2,26 @@
   "products": [
     {
       "id": "123",
-      "title": "Nome do produto 01",
+      "title": "Camiseta Jordan Legacy",
       "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
       "price": 50
     },
     {
       "id": "1234",
-      "title": "Nome do produto 02",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "title": "Camiseta Mescia",
+      "image_url": "https://static.dooca.com.br/pampatech/product/camiseta-raglan-vermelha-manga-curta-adulto-para-sublimar-14908121066876_640x640.png",
       "price": 60
     },
     {
       "id": "12345",
-      "title": "Nome do produto 03",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "title": "Camiseta Ragian Poliéster",
+      "image_url": "https://cdn.iset.io/assets/51664/produtos/146/thumb_514-489-camiseta_raglan_manga_curta_mlb_f_3738428531_012013inktexx.jpg",
       "price": 70
     },
     {
       "id": "123456",
-      "title": "Nome do produto 04",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "title": "Camiseta Fitness Animal",
+      "image_url": "https://cdn.awsli.com.br/600x450/44/44273/produto/2164506/bc5119766c.jpg",
       "price": 80
     }
   ]
